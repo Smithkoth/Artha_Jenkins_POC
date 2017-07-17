@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="J_POC.J_POC.HS_TS008_AEPCustomer_Details_Check">
+        <methods>
+          <include name="HS_AEPCustomer_FirstName_Check_TC020"/>
+          <include name="HS_AEPCustomer_LastName_Check_TC021"/>
+          <include name="HS_AEPCustomer_UniqueID_Check_TC024"/>
+          <include name="HS_AEPCustomer_PremisesAddressZipPlus4_Check_TC023"/>
+        </methods>
+      </class> <!-- J_POC.J_POC.HS_TS008_AEPCustomer_Details_Check -->
+      <class name="J_POC.J_POC.HS_TS009_AEPAudit_Details_Check">
+        <methods>
+          <include name="HS_AEPAudit_Date_Check_TC025"/>
+          <include name="HS_AEPAudit_ProductCodes_Null_Check_TC026"/>
+        </methods>
+      </class> <!-- J_POC.J_POC.HS_TS009_AEPAudit_Details_Check -->
+      <class name="J_POC.J_POC.HS_TS007_Premise_Name_Check">
+        <methods>
+          <include name="HS_Premise_First_Name_Check_TC018"/>
+          <include name="HS_Premise_Last_Name_Check_TC019"/>
+        </methods>
+      </class> <!-- J_POC.J_POC.HS_TS007_Premise_Name_Check -->
+      <class name="J_POC.J_POC.HS_TS010_PaymentsFromPartner_Check">
+        <methods>
+          <include name="HS_SJPayments_Transaction_Amount_Check_TC031"/>
+          <include name="HS_SJPayments_ChargeType_Check_TC029"/>
+          <include name="HS_SJPayments_Partner_Record_Type_Check_TC033"/>
+          <include name="HS_SJPayments_AccountNumber_Check_TC028"/>
+          <include name="HS_SJPayments_Invoice_Number_Check_TC030"/>
+          <include name="HS_SJPayments_Partner_ChargeSign_Check_TC032"/>
+        </methods>
+      </class> <!-- J_POC.J_POC.HS_TS010_PaymentsFromPartner_Check -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
