@@ -6,7 +6,6 @@
       <class name="J_POC.J_POC.HS_TS007_Premise_Name_Check"/>
       <class name="J_POC.J_POC.HS_TS009_AEPAudit_Details_Check"/>
       <class name="J_POC.J_POC.HS_TS008_AEPCustomer_Details_Check"/>
-      <class name="J_POC.J_POC.AppTest"/>
       <class name="J_POC.J_POC.HS_TS010_PaymentsFromPartner_Check"/>
     </classes>
   </test> <!-- Test -->
