@@ -8,5 +8,6 @@
       <class name="J_POC.J_POC.HS_TS008_AEPCustomer_Details_Check"/>
       <class name="J_POC.J_POC.HS_TS010_PaymentsFromPartner_Check"/>
     </classes>
-  </test> <!-- Test -->
+  </test> 
+  <!-- Test -->
 </suite> <!-- Suite -->
